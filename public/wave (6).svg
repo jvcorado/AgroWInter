@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+  <defs>
+    <linearGradient id="gradiente" gradientTransform="rotate(360)" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="32%" stop-color="rgba(4,52,66,1)" />
+      <stop offset="100%" stop-color="rgba(22,83,54,1)" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#gradiente)" fill-opacity="1" d="M0,160L180,32L360,192L540,224L720,288L900,64L1080,0L1260,64L1440,64L1440,0L1260,0L1080,0L900,0L720,0L540,0L360,0L180,0L0,0Z"></path>
+</svg>
