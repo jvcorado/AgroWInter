@@ -21,7 +21,7 @@ export const Section3 = () => {
         </div>
         <div className="p-10 lg:px-40 lg:mt-20">
           <Swiper
-            slidesPerView={3}
+            slidesPerView={1}
             spaceBetween={30}
             pagination={{
               clickable: true,
@@ -32,11 +32,11 @@ export const Section3 = () => {
                 spaceBetween: 0,
               },
               768: {
-                slidesPerView: 4,
+                slidesPerView: 2,
                 spaceBetween: 40,
               },
               1024: {
-                slidesPerView: 5,
+                slidesPerView: 3,
                 spaceBetween: 50,
               },
             }}
